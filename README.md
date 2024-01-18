@@ -1,4 +1,5 @@
 Daily Standup Meeting Agenda
+
 **Time:** [Meeting Time] (e.g., 10:00 AM)
 
 **Duration:** 15 minutes (Stick to it!)
