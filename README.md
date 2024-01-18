@@ -1,5 +1,6 @@
 **Daily Standup Meeting Agenda**
 
+
 **Time:** [Meeting Time] (e.g., 10:00 AM)
 
 **Duration:** 15 minutes (Stick to it!)
@@ -23,6 +24,7 @@
 
 4. **Action Items & Next Steps (2 minutes):** Briefly summarize any action items or decisions made, and confirm who is responsible for each.
 5. **Wrap-up (1 minute):** Briefly re-iterate the team's priorities for the day and express encouragement.
+
 
 **Tips for keeping it efficient:**
 
