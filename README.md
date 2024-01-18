@@ -14,11 +14,11 @@
 1. **Welcome & Icebreaker (Optional, 1-2 minutes):** Start with a quick and light activity to boost energy and engagement. (e.g., share a personal update, answer a fun question)
 2. **Individual Updates (1 minute per person):** Each team member answers three questions:
 
-    **Yesterday: What did I accomplish yesterday?**
+       **Yesterday: What did I accomplish yesterday?**
    
-    **Today: What will I focus on today?**
+       **Today: What will I focus on today?**
    
-    **Blockers: Do I have any obstacles I need help with?**
+       **Blockers: Do I have any obstacles I need help with?**
 
 4. **Open Discussion (5 minutes):** Discuss any questions, concerns, or opportunities arising from individual updates.
     Prioritize identifying and resolving blockers.
