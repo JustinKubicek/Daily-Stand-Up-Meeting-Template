@@ -1,4 +1,4 @@
-Daily Standup Meeting Agenda
+**Daily Standup Meeting Agenda**
 
 **Time:** [Meeting Time] (e.g., 10:00 AM)
 
