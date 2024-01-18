@@ -28,6 +28,7 @@
 6. **Wrap-up (1 minute):** Briefly re-iterate the team's priorities for the day and express encouragement.
 
 
+
 **Tips for keeping it efficient:**
 
 **Be prepared:** Come to the meeting with your updates ready.
