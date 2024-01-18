@@ -31,7 +31,11 @@
 **Tips for keeping it efficient:**
 
 **Be prepared:** Come to the meeting with your updates ready.
+
 **Focus on progress, not details:** Keep your updates concise and actionable.
+
 **Avoid side conversations:** Respect everyone's time and stay focused on the agenda.
+
 **Actionable blockers:** Clearly state your blocker and suggest potential solutions or who you need help from.
+
 **Keep it positive:** Celebrate successes and acknowledge team effort.
